@@ -7,6 +7,6 @@ requiring mathematical calculations were prepared
 
 ### Used Technologies and Techniques 
 
-Python, OpenCV, Numpy, Pandas, Matplotlib, Google Colab, Tensorflow
+Python, OpenCV, Numpy, Pandas, Matplotlib, Google Colab, Tensorflow\
 Machine Learning, Deep Learning
 
