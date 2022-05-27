@@ -9,4 +9,3 @@ requiring mathematical calculations were prepared
 
 Python, OpenCV, Numpy, Pandas, Matplotlib, Google Colab, Tensorflow\
 Machine Learning, Deep Learning
-
